@@ -1,4 +1,4 @@
-var currentNumberWrapper = document.getElementById("courrentNumber");
+var currentNumberWrapper = document.getElementById("currentNumber");
 var currentNumber = 0;
 
 function increment() {
